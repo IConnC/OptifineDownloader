@@ -2,7 +2,7 @@
   {
     "modid": "optifinedownlaoder",
     "name": "OptifineDownloader",
-    "description": "",
+    "description": "Downloads Optifine to the Mod Folder automatically without legally violating the Optifine Copyright. (Intended for Mod Pack Maintainers)",
     "version": "${version}",
     "mcversion": "${mcversion}",
     "url": "",

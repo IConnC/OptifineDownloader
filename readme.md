@@ -1,0 +1,4 @@
+# Optifine Downloader
+Due to Copyright restrictions, Mod Pack authors are unable to legally distribute Optifine in their mod packs. This mod legally allows mod pack authors to include Optifine with their mod pack. Instead of distributing the Optifine binary, this mod downloads the binary from the Optifine download website (https://www.optifine.net/) for each individual mod pack user. This circumvents breaking copyright law and allows mod pack authors to utilize the performance that Optifine offers.
+
+This mod downloads the Optifine mod legally after the initial launch of the game. Optifine will not be usable until the next start of the game currently, but I am working on a fix to automatically restart and mount Optifine.
